@@ -15,7 +15,7 @@
 
 ### 🔭 I’m currently working on...
 - In a project called "sunny days". This project has the purpose of creating a store-like website to sell women's footwear. It is made with HTML5, CSS3, Javascript, PHP and MySQL
-- In a project called "hotel panoramas". This project has the purpose of creating a website to present a hotel and inform about its services. It is made with HTML5, CSS3 and Javascript.
+- In a project called "retoño". This project aims to create a website for an eco-friendly feminine wipes startup. For this project we are using ReactJS for the frontend and PHP for the backend. Also I use MySQL to manage the database.
 
 ### 🌱 I'm currently learning...
 - React
