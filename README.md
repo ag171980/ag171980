@@ -7,7 +7,6 @@
 
 ### 💬About me
 - I am studying Systems Engineering at the UTN.
-- In my spare time I read books on science fiction (I am currently reading Brave New World by Aldous Huxley).
 - I love going for a walk with my dog.
 - I like to talk while playing with friends via Discord.
 - Before I practiced playing the clarinet and I loved it.
