@@ -13,7 +13,7 @@
 
 
 ### 🔭 I’m currently working on...
-- In a project called "sunny days". This project has the purpose of creating a store-like website to sell women's footwear. It is made with HTML5, CSS3, Javascript, PHP and MySQL
+- In a project called "amatista moda y estilo". This project has the purpose of creating an ecommerce website to sell women's underwear. It is made with HTML5, CSS3, Javascript, PHP and MySQL
 
 ### 🌱 I'm currently learning...
 - React
