@@ -1,6 +1,6 @@
 ### Hi, I'm Alexis Nicolas Gutierrez 👋
 
-![](https://github.com/ag171980/ag171980/blob/main/Design.svg)
+<!-- ![](https://github.com/ag171980/ag171980/blob/main/Design.svg) -->
 
 ### I'm Frontend and Backend Developer 
 
