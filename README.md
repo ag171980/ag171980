@@ -13,9 +13,9 @@
 
 
 ### 🔭 I’m currently working on...
-- In a project called "amatista moda y estilo". This project has the purpose of creating an ecommerce website to sell women's underwear. It is made with HTML5, CSS3, Javascript, PHP and MySQL
+- In a project called "Spotifake". This project has the purpose of creating an music webapp to create playlists and listen music. It is made with VueJS, MySQL and Laravel.
 
 ### 🌱 I'm currently learning...
-- React
-- Material UI
-- Laravel
+- React (learning in a programming course called Codo a Codo)
+- VueJS
+- Laravel 
