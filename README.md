@@ -13,9 +13,10 @@
 
 
 ### 🔭 I’m currently working on...
-- In a project called "Spotifake". This project has the purpose of creating an music webapp to create playlists and listen music. It is made with VueJS, MySQL and Laravel.
+- In a project called "Meety". This project has the purpose of working as a simple social network for the Codo a Codo course.
+- In a project called "Matcher". This project has the purpose of working as a social dating network similar to Tinder, Badoo, etc.
 
 ### 🌱 I'm currently learning...
 - React (learning in a programming course called Codo a Codo)
-- VueJS
-- Laravel 
+- NodeJs
+- AWS
