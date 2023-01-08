@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>- In a project called "Meety". This project has the purpose of working as a simple social network for the Codo a Codo course.<br>- In a project called "Resurrected". This project has the purpose of operating as an ecommerce for a venture.<br><br>🌱 I’m currently learning<br>- Java<br>- Spring Boot<br><br>💬 I love...<br>- Walk with my dog.<br>- Playing with friends via Discord.<br>- Playing the clarinet.<br>
+🔭 I’m currently working on<br>- In a project called "Meety". This project has the purpose of working as a simple social network for the Codo a Codo course.<br>- In a project called "Resurrected". This project has the purpose of operating as an ecommerce for a venture.<br><br>🌱 I’m currently learning<br>- Java<br>- Spring Boot<br><br>💞 I love...<br>- Walk with my dog.<br>- Playing with friends via Discord.<br>- Playing the clarinet.<br>
 
 
 ## 🌐 Socials:
